@@ -1,0 +1,10 @@
+C:\Users\oxelo\source\repos\oxelox\DR-49-A2-73899\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\oxelo\source\repos\oxelox\DR-49-A2-73899\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\oxelo\source\repos\oxelox\DR-49-A2-73899\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\oxelo\source\repos\oxelox\DR-49-A2-73899\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\oxelo\source\repos\oxelox\DR-49-A2-73899\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\Users\oxelo\source\repos\oxelox\DR-49-A2-73899\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\oxelo\source\repos\oxelox\DR-49-A2-73899\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\oxelo\source\repos\oxelox\DR-49-A2-73899\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\oxelo\source\repos\oxelox\DR-49-A2-73899\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\oxelo\source\repos\oxelox\DR-49-A2-73899\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
